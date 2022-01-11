@@ -21,7 +21,6 @@ const ExampleChart = ({ data }) => {
         numberSuffix: "K",
         theme: "candy",
       },
-      // Chart Data
       data: data,
     },
   };
